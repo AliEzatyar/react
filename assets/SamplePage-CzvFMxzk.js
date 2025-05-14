@@ -1,0 +1,1 @@
+import{j as e}from"./index-P2HWq5AB.js";import{C as s}from"./CardBox-iBHS77gx.js";const m=()=>e.jsxs(s,{children:[e.jsx("h5",{className:"card-title",children:"Sample page 2"}),e.jsx("p",{children:"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"})]});export{m as default};
