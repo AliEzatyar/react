@@ -1,1 +1,0 @@
-import{r as e,a}from"./index-BofOdt6x.js";let t=e.createContext(()=>{});function u(){return e.useContext(t)}function c({value:r,children:n}){return a.createElement(t.Provider,{value:r},n)}export{c as C,u};

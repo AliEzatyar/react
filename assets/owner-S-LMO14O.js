@@ -1,1 +1,0 @@
-import{a as e}from"./render-XO5tK_Yh.js";function t(n){return e.isServer?null:n instanceof Node?n.ownerDocument:n!=null&&n.hasOwnProperty("current")&&n.current instanceof Node?n.current.ownerDocument:document}export{t as u};
